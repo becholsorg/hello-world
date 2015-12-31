@@ -1,1 +1,0 @@
-This is supposed to be some sort of readme file to introduce the concepts and ideas behind this program.
